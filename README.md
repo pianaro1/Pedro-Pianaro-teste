@@ -1,5 +1,6 @@
 # Meu nome é **Pedro Pianaro** | 16 anos
-Gosto de **jogar futebol** e **sair de casa**. Sou _inteligente_ e _criativo_ e sempre gosto de aprender algo novo.
+Gosto de **jogar futebol** e **sair de casa**. Sou _inteligente_ e _criativo_ e sempre gosto de aprender algo novo.<br>
+
 <br>-Eu gosto de ir na igreja
 <br>-Meu sonho é se tornar atleta profissional de futebol
 
